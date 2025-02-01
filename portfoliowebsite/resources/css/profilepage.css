@@ -1,0 +1,16 @@
+body{
+     margin: 10px;
+     background-color: black;
+}
+.nav-link:hover{
+    color: blue;
+}
+#togglerbutn{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+.dots{
+    color: 2px solid white;
+
+}
